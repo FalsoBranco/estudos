@@ -1,5 +1,5 @@
 [[Inteligencia Artificial]]
-tags:: #Material #Professor
+tags:: #Exercicio #Professor #Faculdade 
 dates:: 2022-09-16 
 
 ---
