@@ -13,6 +13,7 @@ dates:: 2022-09-23
 	> R: 256 Possibilidades
 	
 	3. Qual seria o total de estados possíveis se fixassem linhas distintas para cada rainha fixa, exemplos: [0,1,2,3]  [1,0,2,3]  [3,1,0,2]
+	> R: 24 estados
 2. Considere o problema da Mochila que consiste em ter uma mochila com capacidade C. Nessa mochila deseja-se inserir itens, maximizando seu conteúdo sem estourar a capacidade da mochila (cada item possui peso e valor). Sendo os itens
 	1. Utilize busca gulosa com a heurística: insira os itens de maior valor que não estourem a capacidade
 	2. Idem ao a com a heurística: Insira o item de menor peso.
