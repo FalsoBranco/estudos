@@ -1,6 +1,6 @@
 [[Inteligencia Artificial]]  
-tags:: #Faculdade #Material #Refatorar
-dates:: 2022-09-19  
+tags:: #Faculdade #Material #Refatorar  
+dates:: 2022-09-19    
 
 ---
 #  Busca em Largura
@@ -10,7 +10,7 @@ Há muitas maneiras de organizar uma busca.  Cada estratégia de busca é caract
 
 
 ### Referencias
-https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/bfs.html
-https://pt.wikipedia.org/wiki/Busca_em_largura
-https://pt.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses
-https://algoritmosempython.com.br/cursos/algoritmos-python/algoritmos-grafos/busca-largura/
+https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/bfs.html  
+https://pt.wikipedia.org/wiki/Busca_em_largura  
+https://pt.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses  
+https://algoritmosempython.com.br/cursos/algoritmos-python/algoritmos-grafos/busca-largura/  

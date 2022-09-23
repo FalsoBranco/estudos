@@ -1,6 +1,6 @@
 [What is this most related to?]  
-tags:: 
-dates:: {{date}}  
+tags::   
+dates:: {{date}}    
 
 ---
 #  {{title}}
