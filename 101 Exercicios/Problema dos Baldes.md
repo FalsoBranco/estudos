@@ -1,5 +1,5 @@
 [[Inteligencia Artificial]]  
-tags:: #Exercicio #Professor #Faculdade   
+tags:: #Exercicio #Professor #Faculdade #Terminar    
 dates:: 2022-09-16   
 
 ---
