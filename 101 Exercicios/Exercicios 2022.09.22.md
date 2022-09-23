@@ -5,7 +5,7 @@ dates:: 2022-09-23
 ---
 # Exercícios 2022.09.22  
 1. De duas definições de [[Inteligencia Artificial]]
-1. ![[Inteligencia Artificial#Definição]]
+![[Inteligencia Artificial#Definição]]
 2. Quando foi escrito o primeiro trabalho de Inteligencia Artificial?
 3. Defina Agente
 4. O que é a descrição PAGE
