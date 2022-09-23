@@ -1,7 +1,7 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-vimrc-support",
   "sliding-panes-obsidian",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]
