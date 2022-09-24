@@ -4,5 +4,10 @@
   "obsidian-admonition",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "dataview",
+  "oz-image-plugin",
+  "table-editor-obsidian",
+  "better-word-count",
+  "obsidian-image-toolkit"
 ]
