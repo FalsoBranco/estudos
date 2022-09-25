@@ -1,12 +1,12 @@
-[[Inteligencia Artificial]]  
+[[Inteligência Artificial]]  
 tags::  #Faculdade #Exercicio #Terminar  
 dates:: 2022-09-23    
 
 ---
 # Exercícios 2022.09.22  
-1. De duas definições de [[Inteligencia Artificial]]
-![[Inteligencia Artificial#An introduction to artificial intelligence]]
-![[Inteligencia Artificial#Artificial intelligence]]
+1. De duas definições de [[Inteligência Artificial]]
+![[Inteligência Artificial#An introduction to artificial intelligence]]
+![[Inteligência Artificial#Artificial intelligence]]
 2. Quando foi escrito o primeiro trabalho de Inteligencia Artificial?
 3. Defina Agente
 4. O que é a descrição PAGE

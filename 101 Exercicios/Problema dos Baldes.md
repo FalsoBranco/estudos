@@ -1,4 +1,4 @@
-[[Inteligencia Artificial]]  
+[[Inteligência Artificial]]  
 tags:: #Exercicio #Professor #Faculdade #Terminar    
 dates:: 2022-09-16   
 
@@ -18,10 +18,9 @@ F) Passar água de B/A
 
 Pede-se:  
 1. Grafo de estados (Aplique todas as ações possíveis a cada estado gerado)
-	![[GrafoDeEstadoUnicaVia.excalidraw|1000|left]]
-	![[GrafoDeEstado.excalidraw|1000|left]]
+	![[GrafoDeEstado.excalidraw.png]]
 1. [[Busca em Largura]] para ir de (0,0) até (1,0)
-	![[ExerciciosBaldeBuscaEmLargura.excalidraw|1000|left]]
+	![[ProblemaBaldeBuscaEmLargura.excalidraw.png]]
 1. [[Busca em Profundidade]] para sair do (0,0) a (0,2)
 
-1. [[Busca em Aprofundamento Iterativo]] para ir de (0,0) até (1,0)
+2. [[Busca em Aprofundamento Iterativo]] para ir de (0,0) até (1,0)

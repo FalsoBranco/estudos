@@ -1,4 +1,4 @@
-[[Inteligencia Artificial]]  
+[[Inteligência Artificial]]  
 tags:: #Faculdade #Material #Refatorar  
 dates:: 2022-09-19    
 
