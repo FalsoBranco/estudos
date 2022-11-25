@@ -80,11 +80,16 @@ q5([X|Y], Z):-
 ![[DT_alunos.png]]
 > O atributo `Dificil` foi o melhor encontrado, pois é o que melhor separa as decisões.
 
-1.  Defina Redes Neurais (RNA):
+12. Defina Redes Neurais (RNA):
 > RNA, Redes Neurais Artificiais são modelos computacionais inspirados pelo sistema nervoso central de um animal (cérebro) que são capazes de realizar o aprendizado de máquina. São apresentadas como sistemas de neurônios interconectados, que podem computar valores de entradas, retornando uma saída.
-1.  Qual o problema com as redes Perceptron ?
+13. Qual o problema com as redes Perceptron ?
 > Por ser um classificador linear, os problemas  solucionados por ele devem ser linearmente separaveis.
 > 
-1.  Explique o Multilayer Perceptron e o algoritmo Backpropagation
+14. Explique o Multilayer Perceptron e o algoritmo Backpropagation
 > **Multilayer Perceptron**: é uma rede neural com uma ou mais camadas ocultas com um número indeterminados de neurônios. A cama oculta possui esse nome porque não é possível prever a saída desejada nas camadas intermediarias.
-3.  Cite 4 problemas reais que podem ser resolvidos utilizando-se RNA:
+> **O backpropagation** é o algoritmo-chave que faz o treinamento de modelos profundos algo computacionalmente tratável. Para as redes neurais modernas, ele pode tornar o treinamento com gradiente descendente até dez milhões de vezes mais rápido, em relação a uma implementação ingênua.
+15. Cite 4 problemas reais que podem ser resolvidos utilizando-se RNA:
+> ▶ Identificação de alvos militares
+> ▶ Autenticação de usuário
+> ▶ Controle de navegação
+> ▶ Predição do mercado financeiro
